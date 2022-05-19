@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akerele180.github.io/csb-4wc9s6/static/css/main.7d9bd48f.chunk.css",
+    "main.js": "https://akerele180.github.io/csb-4wc9s6/static/js/main.9de310f4.chunk.js",
+    "main.js.map": "https://akerele180.github.io/csb-4wc9s6/static/js/main.9de310f4.chunk.js.map",
+    "runtime-main.js": "https://akerele180.github.io/csb-4wc9s6/static/js/runtime-main.a4c122ea.js",
+    "runtime-main.js.map": "https://akerele180.github.io/csb-4wc9s6/static/js/runtime-main.a4c122ea.js.map",
+    "static/js/2.d824c22f.chunk.js": "https://akerele180.github.io/csb-4wc9s6/static/js/2.d824c22f.chunk.js",
+    "static/js/2.d824c22f.chunk.js.map": "https://akerele180.github.io/csb-4wc9s6/static/js/2.d824c22f.chunk.js.map",
+    "index.html": "https://akerele180.github.io/csb-4wc9s6/index.html",
+    "static/css/main.7d9bd48f.chunk.css.map": "https://akerele180.github.io/csb-4wc9s6/static/css/main.7d9bd48f.chunk.css.map",
+    "static/js/2.d824c22f.chunk.js.LICENSE.txt": "https://akerele180.github.io/csb-4wc9s6/static/js/2.d824c22f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c122ea.js",
+    "static/js/2.d824c22f.chunk.js",
+    "static/css/main.7d9bd48f.chunk.css",
+    "static/js/main.9de310f4.chunk.js"
+  ]
+}
